@@ -8,117 +8,82 @@ pre: " <b> 4.2. </b> "
 
 
 
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+# Summary Report: “FCAJ Community Day 23/05/2026”
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+- Connect and inspire students, professionals, and tech experts
+- Share practical knowledge from cloud platforms, system architecture, and AI
+- Encourage networking, communication, and real-world problem solving
 
 ### Speakers
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+- **Gia Hưng (AWS Vietnam)** – Talked about the IT labor market and the importance of real products
+- **Tịnh Trương** – Explained how to provide good context to AI and avoid being an “Internet puller”
+- **Hải Anh** – Presented Amazon Q and its integration capabilities via MCP
+- **Thịnh Nguyễn** – Discussed Amazon CloudFront Flat Rate Pricing and security solutions
+- **UTM Team** – Shared a 36-hour hackathon experience building an AI UI generation and editing application
+- **Đức Đào** – Explained the non-deterministic nature of LLMs even at Temperature = 0
+- **Vy Lâm** – Presented multi-agent architecture for startup credit scoring in enterprise environments
 
 ### Key Highlights
 
-#### Identifying the drawbacks of legacy application architecture
+#### Surging demand for Platform and DevOps skills
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+- AI makes software creation cheaper and faster, which increases the number of applications  
+- This creates strong demand for people who can operate and maintain systems  
+- Students need real business context and complete products, not just basic demos  
 
-#### Transitioning to modern application architecture – Microservices
+#### The “Internet Puller” mistake
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+- AI should not be fed random plugins and internet data without structure  
+- Clear roles and precise context help the model stay focused and useful  
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+#### CloudFront Flat Rate and security
 
-#### Domain-Driven Design (DDD)
+- Flat Rate Pricing helps enterprises avoid sudden bill spikes from traffic surges or DDoS attacks  
+- VPC Origin and mTLS strengthen the security model  
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+#### LLM non-determinism
 
-#### Event-Driven Architecture
+- Even with Temperature = 0, AI output can vary  
+- Floating-point rounding and inference optimization can still affect results  
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+#### Multi-agent systems in enterprise use cases
 
-#### Compute Evolution
-
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
-
-#### Amazon Q Developer
-
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
+- Multi-agent architecture helps overcome context window limits  
+- It also allows strict role separation and better security for enterprise data  
 
 ### Key Takeaways
 
-#### Design Mindset
+#### Tools must serve people
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+- AI architectures only matter when they solve a real user or business problem  
+- Always answer “Who uses this and why?” before building  
 
-#### Technical Architecture
+#### Testing is continuous
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+- AI is probabilistic, so systems need error handling and continuous testing  
+- Production readiness depends on validation across many scenarios  
 
-#### Modernization Strategy
+#### Be careful with AI-generated code
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+- Do not blindly copy AI-generated code into enterprise systems  
+- It can break standards and cause failures if not reviewed carefully  
 
-### Applying to Work
+#### Move quickly
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+- Market expectations are rising month by month  
+- Delaying action increases the cost of catching up later  
 
 ### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+The event balanced architecture theory, live demos, and real stories from production environments.
 
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
+#### Practical and dynamic
+- Speakers shared production failure stories that were honest and memorable  
+- The session mixed theory with practical examples that were easy to relate to  
 
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
-
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
-
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
-
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
-
-#### Some event photos
-*Add your event photos here*  
-
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+#### Encouraging self-expression
+- The organizers used quizzes and interactive questions to keep the audience engaged  
+- The event emphasized the value of speaking up and building visibility for your career  

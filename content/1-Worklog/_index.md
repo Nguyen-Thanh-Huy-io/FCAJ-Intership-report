@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
 This worklog summarizes my 12-week learning journey in the **First Cloud AI Journey (FCAJ)** program. Throughout the internship, I studied core AWS services, completed hands-on laboratories, and gradually built practical cloud computing skills.
 
