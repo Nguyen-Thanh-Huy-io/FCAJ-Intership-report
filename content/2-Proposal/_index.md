@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 2. </b> "
 ---
 
-In this section, you need to summarize the contents of the workshop that you plan to conduct.
-
 # AWS Cloud Deployment Proposal for PubliCast
 ## Building a Scalable Social Media Operations Platform on AWS
 

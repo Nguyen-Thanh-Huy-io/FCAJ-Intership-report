@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 2. </b> "
 ---
 
-Tại phần này, bạn cần tóm tắt các nội dung trong workshop mà bạn dự tính sẽ làm.
 
 # Đề xuất triển khai PubliCast trên AWS
 ## Xây dựng nền tảng quản lý mạng xã hội có thể mở rộng trên AWS
