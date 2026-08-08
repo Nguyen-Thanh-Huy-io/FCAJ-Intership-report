@@ -7,8 +7,6 @@ pre: " <b> 5. </b> "
 ---
 
 
-# Workshop: Thiết kế và Triển khai Nền tảng Đăng tải Nội dung Mạng xã hội PubliCast trên AWS
-
 #### Tổng quan về bản trình bày
 Bản trình bày này giới thiệu PubliCast từ ý tưởng sản phẩm đến triển khai trên AWS.
 + **Chương 5.1** giới thiệu sản phẩm và mạch trình bày.

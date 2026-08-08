@@ -7,8 +7,6 @@ pre: " <b> 5. </b> "
 ---
 
 
-# PubliCast Workshop: Architecting and Deploying a Cloud-Native Social Publishing Platform on AWS
-
 #### Presentation overview
 This presentation walks through the PubliCast from product vision to AWS deployment.
 + **Chapter 5.1** introduces the product and presentation flow.
