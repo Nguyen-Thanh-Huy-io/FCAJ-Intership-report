@@ -7,7 +7,7 @@ pre: " <b> 4. </b> "
 ---
 
 
-Trong quá trình thực tập, em đã tham gia 4 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là những món quà và những khoảnh khắc rất tuyệt vời.
+Trong khoảng thời gian thực tập, em đã có cơ hội góp mặt trong 4 sự kiện. Đây đều là những trải nghiệm vô cùng quý giá, giúp em tiếp thu thêm nhiều kiến thức mới mẻ, thú vị và thực tiễn, đồng thời mang lại những kỷ niệm đẹp và các phần quà hấp dẫn.
 
 ### [Event 1](4.1-Event1/)
 &emsp;**Tên sự kiện:** FCAJ Community Day 21/03/2026
@@ -18,10 +18,9 @@ Trong quá trình thực tập, em đã tham gia 4 events, với mỗi event là
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
-&emsp;**Nội dung chính:** Giới thiệu hệ sinh thái công nghệ GoTyme X, định hướng nghề nghiệp, triết lý platform engineering, DevOps/CI-CD, agentic coding, Amazon Nova, GraphRAG và AI guardrails. 
+&emsp;**Nội dung chính:** Cung cấp thông tin về hệ sinh thái công nghệ của GoTyme X, các định hướng phát triển sự nghiệp, tư duy thiết kế nền tảng (platform engineering), thực hành DevOps/CI-CD, lập trình Agentic, cùng các công nghệ như Amazon Nova, GraphRAG và các rào chắn bảo mật AI.
 
-&emsp;**Kết quả đạt được:** Hiểu rõ hơn cách tư duy sản phẩm áp dụng cho hạ tầng, cách con người làm việc cùng AI, và cách xây dựng hệ thống AI một cách có trách nhiệm.
-
+&emsp;**Kết quả đạt được:** Mở rộng góc nhìn về việc đưa tư duy sản phẩm vào quản lý hạ tầng, hiểu cách thức con người tương tác hiệu quả với AI, cũng như nguyên tắc xây dựng các hệ thống AI một cách an toàn và có trách nhiệm.
 
 
 ### [Event 2](4.2-Event2/)
@@ -33,9 +32,9 @@ Trong quá trình thực tập, em đã tham gia 4 events, với mỗi event là
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
-&emsp;**Nội dung chính:** Chia sẻ về AWS, CloudFront, Amazon Q, cách cung cấp context cho AI, Flat Rate Pricing, bài toán hackathon UI, tính bất định của LLM và hệ thống đa tác nhân trong doanh nghiệp. 
+&emsp;**Nội dung chính:** Các chủ đề xoay quanh AWS, CloudFront, Amazon Q, kỹ năng thiết lập ngữ cảnh cho AI, mô hình định giá Flat Rate Pricing, thiết kế UI trong các kỳ hackathon, sự không chắc chắn của LLM và ứng dụng kiến trúc đa tác nhân (multi-agent) trong các tập đoàn.
 
-&emsp;**Kết quả đạt được:** Học được cách cung cấp ngữ cảnh tốt hơn cho AI, hiểu hơn về testing trong hệ thống AI, và thấy rõ giá trị của multi-agent trong môi trường doanh nghiệp.
+&emsp;**Kết quả đạt được:** Nắm bắt phương pháp tối ưu hóa ngữ cảnh đầu vào cho AI, tầm quan trọng của việc kiểm thử liên tục trong hệ thống AI và những lợi ích thiết thực của multi-agent trong môi trường làm việc chuyên nghiệp.
 
 ---
 
@@ -48,9 +47,9 @@ Trong quá trình thực tập, em đã tham gia 4 events, với mỗi event là
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
-&emsp;**Nội dung chính:** Tập trung vào LocalStack kết hợp với AWS, thực hành thuyết trình tiếng Anh, xây dựng sự tự tin, dự án AI kết hợp Tử vi, những “tảng băng chìm” trong phát triển phần mềm và các vấn đề tiềm ẩn khi làm việc thực tế. 
+&emsp;**Nội dung chính:** Các chuyên đề về việc sử dụng LocalStack kết hợp AWS, kỹ năng tự tin thuyết trình bằng tiếng Anh, ý tưởng khởi nghiệp độc đáo kết hợp AI và Tử vi học, cùng với việc khám phá những góc khuất trong phát triển phần mềm và rủi ro tiềm ẩn khi làm dự án thực tế.
 
-&emsp;**Kết quả đạt được:** Học được giá trị của sự tự tin, các dự án thực chiến, và tinh thần hành động sớm thay vì trì hoãn vì sợ hãi hoặc thiếu tự tin. 
+&emsp;**Kết quả đạt được:** Nhận thức rõ hơn về sức mạnh của sự tự tin, kinh nghiệm triển khai dự án thực chiến và tinh thần sẵn sàng hành động để vượt qua những nỗi sợ hãi vô hình.
 
 ---
 
@@ -63,7 +62,6 @@ Trong quá trình thực tập, em đã tham gia 4 events, với mỗi event là
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
-&emsp;**Nội dung chính:** Trình bày các giải pháp AI thực tiễn cho doanh nghiệp, gồm Voice Agent tiếng Việt, AWS DevOps AI Agent, Amazon Q Business cho HR và kiến trúc bảo mật nội bộ khi kết nối Amazon Q với MCP server. 
+&emsp;**Nội dung chính:** Phân tích các giải pháp AI áp dụng trong doanh nghiệp, tiêu biểu như Voice Agent hỗ trợ tiếng Việt, hệ thống AWS DevOps AI Agent, Amazon Q Business trong lĩnh vực nhân sự (HR) và cách thiết lập kiến trúc bảo mật khép kín khi kết nối Amazon Q với các máy chủ MCP nội bộ.
 
-&emsp;**Kết quả đạt được:** Hiểu rõ hơn cách AI hỗ trợ chăm sóc khách hàng, DevOps và HR, đồng thời nhận ra bảo mật và kiểm soát dữ liệu nội bộ là yếu tố bắt buộc.
-
+&emsp;**Kết quả đạt được:** Nắm bắt sâu sắc hơn vai trò của AI trong việc tối ưu hóa dịch vụ khách hàng, quy trình DevOps và quản trị nhân sự, bên cạnh việc củng cố tư duy về tầm quan trọng của việc bảo mật dữ liệu công ty.

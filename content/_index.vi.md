@@ -7,11 +7,11 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Trịnh Quốc Công Vinh
+&emsp; **Họ và tên:** Nguyễn Thành Huy
 
-&emsp; **Số điện thoại:** 0374075019    
+&emsp; **Số điện thoại:** 0795875245  
 
-&emsp; **Email:** 23110366@student.hcmute.edu.vn
+&emsp; **Email:** 23110227@student.hcmute.edu.vn
 
 &emsp; **Trường:** Đại học Công nghệ Kỹ thuật TP.HCM
 
@@ -19,9 +19,9 @@ chapter: false
 
 &emsp; **Lớp:** 
 
-&emsp; **Công ty thực tập:** Bootcamp - First Cloud AI Journe @ AWS Study Group
+&emsp; **Công ty thực tập:** Bootcamp - First Cloud AI Journey @ AWS Study Group
 
-&emsp; **Vị trí thực tập:** Cloud Engineer
+&emsp; **Vị trí thực tập:** Devops Engineer
 
 &emsp; **Thời gian thực tập:** Từ ngày 19/03/2026 đến ngày 19/07/2026
 

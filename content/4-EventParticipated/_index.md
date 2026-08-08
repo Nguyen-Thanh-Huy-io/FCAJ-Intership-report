@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-
-
 > In this section, you should list and describe in detail the events you have participated in during your internship or work experience.  
 > 
 > Each event should be presented in the format Event 1, Event 2, Event 3, Event 4…, along with the following details:
@@ -19,7 +17,7 @@ pre: " <b> 4. </b> "
 > * Outcomes or value gained (lessons learned, new skills, contribution to the team/project)
 > * This listing helps demonstrate your actual participation as well as the soft skills and experience you have gained from each event.
 
-During my internship, I participated in four events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+Over the course of my internship, I had the opportunity to attend four different events. Each occasion was a highly memorable journey that equipped me with fresh, valuable insights and practical knowledge, not to mention the fantastic gifts and great moments shared.
 
 ### [Event 1](4.1-Event1/)  
 &emsp;**Event Name:** FCAJ Community Day 21/03/2026  
@@ -30,9 +28,9 @@ During my internship, I participated in four events. Each one was a memorable ex
 
 &emsp;**Role:** Attendee  
 
-&emsp;**Main Content:** Introduced GoTyme X's tech ecosystem, career pathways, platform engineering philosophy, DevOps/CI-CD practices, agentic coding, Amazon Nova, GraphRAG, and AI security guardrails.  
+&emsp;**Main Content:** Showcased the technology ecosystem and career paths at GoTyme X, while diving into platform engineering concepts, DevOps/CI-CD workflows, agentic coding, Amazon Nova, GraphRAG, and the implementation of AI security guardrails.  
 
-&emsp;**Outcomes:** Gained a broader view of how product thinking applies to infrastructure, how developers collaborate with AI, and how advanced AI architecture can be used responsibly.  
+&emsp;**Outcomes:** Developed a comprehensive understanding of applying a product-oriented mindset to infrastructure, the dynamics of human-AI collaboration in development, and the importance of constructing responsible and secure AI architectures.  
 
 ---
 
@@ -45,9 +43,9 @@ During my internship, I participated in four events. Each one was a memorable ex
 
 &emsp;**Role:** Attendee  
 
-&emsp;**Main Content:** Covered cloud and AI topics such as AWS, CloudFront, Amazon Q, context engineering for AI, Flat Rate Pricing, a hackathon UI demo, LLM non-determinism, and multi-agent systems in enterprise use cases.  
+&emsp;**Main Content:** Explored various cloud and AI subjects including AWS, CloudFront, Amazon Q, effective context engineering for AI, the Flat Rate Pricing model, a hackathon UI challenge, LLM variability, and the application of multi-agent systems within enterprise environments.  
 
-&emsp;**Outcomes:** Learned how to provide better context for AI, why testing matters in AI-driven systems, and how multi-agent workflows can solve real business problems.  
+&emsp;**Outcomes:** Acquired techniques for supplying optimal context to AI tools, recognized the critical role of continuous testing in AI implementations, and discovered the practical value of multi-agent architectures in real business scenarios.  
 
 ---
 
@@ -60,9 +58,9 @@ During my internship, I participated in four events. Each one was a memorable ex
 
 &emsp;**Role:** Attendee  
 
-&emsp;**Main Content:** Focused on LocalStack with AWS, English presentation practice, confidence building, an AI plus astrology startup idea, software iceberg issues, and hidden risks in software development.  
+&emsp;**Main Content:** Centered around using LocalStack alongside AWS, enhancing English presentation skills and self-assurance, introducing a unique startup concept merging AI and astrology, and examining the unseen "iceberg" challenges and hidden pitfalls in software engineering.  
 
-&emsp;**Outcomes:** Learned the value of confidence, practical hacking projects, and acting early instead of delaying work due to fear or self-doubt.  
+&emsp;**Outcomes:** Realized the importance of self-confidence, gained exposure to hands-on hackathon projects, and embraced a proactive mindset of taking immediate action rather than yielding to fear and hesitation.  
 
 ---
 
@@ -75,6 +73,7 @@ During my internship, I participated in four events. Each one was a memorable ex
 
 &emsp;**Role:** Attendee  
 
-&emsp;**Main Content:** Presented practical AI solutions for businesses, including Vietnamese Voice Agent systems, AWS DevOps AI Agent, Amazon Q Business for HR, and secure private integration with internal MCP servers.  
+&emsp;**Main Content:** Highlighted practical enterprise AI applications, such as a Vietnamese Voice Agent platform, the AWS DevOps AI Agent, utilizing Amazon Q Business for human resources, and ensuring private, secure integrations between Amazon Q and internal MCP servers.  
 
-&emsp;**Outcomes:** Understood how AI can amplify work in customer service, DevOps, and HR, while security and internal data control remain critical.  
+&emsp;**Outcomes:** Deepened my knowledge of how AI can significantly boost efficiency in customer support, DevOps, and HR operations, while also reinforcing the non-negotiable need for stringent security and data privacy measures.
+  

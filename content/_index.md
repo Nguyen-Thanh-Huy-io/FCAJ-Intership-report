@@ -10,11 +10,11 @@ chapter: false
 
 
 ### Student Information:
-&emsp; **Full Name:** Trinh Quoc Cong Vinh
+&emsp; **Full Name:** Nguyen Thanh Huy
 
-&emsp; **Phone Number:** 0374075019
+&emsp; **Phone Number:** 0795875245
 
-&emsp; **Email:** 23110366@student.hcmute.edu.vn
+&emsp; **Email:** 23110227@student.hcmute.edu.vn
 
 &emsp; **University:** Ho Chi Minh City University of Technology and Engineer
 
@@ -22,11 +22,11 @@ chapter: false
 
 &emsp; **Class:** 
 
-&emsp; **Internship Company:** AmBootcamp - First Cloud AI Journe @ AWS Study Group
+&emsp; **Internship Company:** Bootcamp - First Cloud AI Journey @ AWS Study Group
 
-&emsp; **Internship Position:** Cloud Engineer
+&emsp; **Internship Position:** Devops Engineer
 
-&emsp; **Internship Duration:** Từ ngày 19/03/2026 đến ngày 19/07/2026
+&emsp; **Internship Duration:** From 19/03/2026 to 19/07/2026
 
 {{< img "images/avatar.png" "Your profile picture" >}}
 ### Report Content

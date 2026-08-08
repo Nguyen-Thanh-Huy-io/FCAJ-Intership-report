@@ -12,81 +12,84 @@ pre: " <b> 4.1. </b> "
 
 ### Mục Tiêu Của Sự Kiện
 
-- Giới thiệu hệ sinh thái công nghệ GoTyme X và các cơ hội nghề nghiệp
-- Chia sẻ kiến thức thực tiễn về Cloud & AI, platform engineering, DevOps, agentic coding, GraphRAG và AI security
-- Truyền cảm hứng cho cộng đồng IT, đặc biệt là nhóm người khiếm thính/khiếm lực nghe
+- Khái quát về hệ sinh thái công nghệ của GoTyme X và mang đến các định hướng nghề nghiệp
+- Cung cấp những góc nhìn thực tế về Cloud & AI, bao gồm platform engineering, DevOps, agentic coding, GraphRAG và các biện pháp bảo mật AI
+- Lan tỏa động lực và hỗ trợ cho các cộng đồng yếu thế trong ngành IT
 
 ### Danh Sách Diễn Giả
 
-- **Đại diện GoTyme X** - Giới thiệu mô hình ngân hàng số, công nghệ kiosk và chương trình thực tập
-- **Phúc (Jason) & Hải (GoTyme X)** - Chia sẻ triết lý “Platform as a Product”
-- **Phong** - Trình bày về DevOps, CI/CD, tự động hóa hạ tầng và monitoring
-- **Phát (Software Engineer tại Katalon)** - Chia sẻ về việc ship code trong kỷ nguyên agentic và tự động hóa đa tác nhân
-- **Nghị** - Trình bày về Amazon Nova, Matryoshka Embeddings, GraphRAG, AI Agents và Bedrock Guardrails
-- **Minh Chiến & Team SJS** - Chia sẻ góc nhìn từ cộng đồng IT người khiếm thính
+- **Đại diện GoTyme X** - Đưa ra bức tranh tổng quan về ngân hàng số, hệ thống kiosk tự động và các cơ hội thực tập
+- **Phúc (Jason) & Hải (GoTyme X)** - Phân tích tư duy tiếp cận “Platform as a Product”
+- **Phong** - Đi sâu vào các thực hành DevOps, CI/CD, tự động hóa cơ sở hạ tầng và giám sát hệ thống (monitoring)
+- **Phát (Software Engineer tại Katalon)** - Nói về quy trình đưa code lên môi trường thực tế trong kỷ nguyên Agentic và tự động hóa với nhiều AI cùng lúc
+- **Nghị** - Giới thiệu về Amazon Nova, kỹ thuật Matryoshka Embeddings, GraphRAG, AI Agents và công cụ bảo vệ Bedrock Guardrails
+- **Minh Chiến & Team SJS** - Kể câu chuyện về hành trình làm việc với AI và dữ liệu dưới lăng kính của cộng đồng IT khiếm thính
 
 ### Nội Dung Nổi Bật
 
-#### GoTyme X và công nghệ kiosk
+#### Sự mở rộng của GoTyme X và công nghệ kiosk
 
-- Startup kỳ lân đầu tiên của Nam Phi với định giá 1,5 tỷ USD  
-- 70% đội ngũ công nghệ đặt tại Việt Nam  
-- Kiosk tại siêu thị cho phép eKYC và phát hành thẻ chỉ trong 5 phút  
+- Đây là startup kỳ lân công nghệ trị giá 1,5 tỷ USD đầu tiên của Nam Phi, với 70% nhân sự kỹ thuật đang làm việc tại Việt Nam  
+- Hệ thống kiosk tại các siêu thị có khả năng thực hiện eKYC và in thẻ cứng chỉ vỏn vẹn trong 5 phút  
 
-#### Platform as a Product
+#### Tư duy Platform as a Product
 
-- Team platform chuyển từ xử lý ticket thủ công sang tạo sản phẩm tự phục vụ  
-- Developer có thể tự triển khai tài nguyên như RDS, VPC nhanh hơn và đúng chuẩn bảo mật  
+- Đội ngũ platform chuyển đổi từ việc giải quyết ticket thủ công sang việc xây dựng các công cụ để lập trình viên tự thao tác  
+- Các developer nay có thể chủ động tạo mới tài nguyên (như RDS, VPC) một cách nhanh chóng mà vẫn tuân thủ các quy định bảo mật  
 
-#### Lập trình trong kỷ nguyên Agentic
+#### Lập trình bằng Agentic và đa tác nhân
 
-- Chuyển từ một AI đơn lẻ sang mô hình đa tác nhân hoạt động song song  
-- Developer có thể giao việc qua công cụ như Linear để AI tự tạo nhánh, viết code và gửi Pull Request  
+- Phương pháp làm việc chuyển từ việc prompt cho một AI duy nhất sang mô hình nhiều AI Agent phối hợp song song  
+- Có thể giao việc thông qua các nền tảng như Linear, để AI tự động phân nhánh (branch), viết mã nguồn và tạo Pull Request  
 
-#### Amazon Nova và GraphRAG
+#### Sức mạnh của Amazon Nova và GraphRAG
 
-- Nova là mô hình đa thức cho văn bản, hình ảnh và âm thanh  
-- GraphRAG dùng Neptune để khai thác quan hệ giữa các thực thể tốt hơn semantic search truyền thống  
+- Mô hình Nova hỗ trợ xử lý linh hoạt nhiều dạng dữ liệu đầu vào như văn bản, hình ảnh và âm thanh  
+- GraphRAG sử dụng cơ sở dữ liệu đồ thị Neptune để tìm ra các mối liên hệ phức tạp mà kỹ thuật tìm kiếm ngữ nghĩa thông thường khó phát hiện  
 
-#### Bảo mật AI
+#### Đảm bảo an toàn cho AI
 
-- Amazon Bedrock Guardrails giúp chặn prompt injection và lọc nội dung không phù hợp  
-- Dữ liệu nhạy cảm của khách hàng cần được bảo vệ giữa người dùng và mô hình  
+- Sử dụng Amazon Bedrock Guardrails để ngăn chặn các cuộc tấn công prompt injection và sàng lọc các nội dung độc hại  
+- Nhấn mạnh tính cấp thiết của việc bảo mật dữ liệu khách hàng và dữ liệu nội bộ trong quá trình tương tác với mô hình  
 
 ### Bài Học Rút Ra
 
-#### Tư duy sản phẩm cho hạ tầng
+#### Áp dụng tư duy sản phẩm cho cơ sở hạ tầng
 
-- Hạ tầng nên được xây như một sản phẩm phục vụ developer nội bộ  
-- Tính tự phục vụ và độ tin cậy quan trọng hơn xử lý nhanh ticket  
+- Kỹ sư platform cần xem hệ thống công cụ nội bộ như một sản phẩm hoàn chỉnh dành riêng cho đối tượng khách hàng là developer  
+- Khả năng tự phục vụ (self-service) và tính ổn định của hệ thống mang lại giá trị cao hơn so với việc chỉ tập trung đóng ticket thật nhanh  
 
-#### Sự tiến hóa vai trò của developer
+#### Sự thay đổi trong vai trò của Developer
 
-- Developer ngày càng đóng vai trò quản lý và điều phối các AI Agent  
-- Chất lượng đầu ra, giao tiếp và quản lý kỳ vọng là yếu tố quyết định  
+- Lập trình viên đang dần trở thành những người vận hành và quản lý các AI Agent thay vì chỉ cặm cụi gõ code  
+- Khả năng giao tiếp, kiểm soát chất lượng đầu ra và quản lý mong đợi trở thành những kỹ năng sống còn  
 
-#### Lựa chọn đúng mô hình AI
+#### Chọn giải pháp AI phù hợp
 
-- Bài toán đơn giản có thể dùng cách tiếp cận đơn giản hơn  
-- Khi dữ liệu có nhiều quan hệ phức tạp thì cần giải pháp dựa trên đồ thị  
+- Hãy bắt đầu với các giải pháp đơn giản cho những bài toán cơ bản, và chỉ áp dụng mô hình đồ thị khi dữ liệu có cấu trúc liên kết phức tạp  
+- Các công cụ AI phát huy tối đa sức mạnh khi bài toán được định nghĩa một cách rõ ràng và rành mạch  
 
-#### AI như công cụ học tập
+#### Dùng AI để tối ưu việc học
 
-- AI giúp đọc, tóm tắt và hiểu tài liệu kỹ thuật nhanh hơn  
-- Nên dùng AI như công cụ học cùng, không phải thay thế tư duy  
+- AI là trợ thủ đắc lực giúp tăng tốc quá trình đọc hiểu và tóm lược các tài liệu chuyên ngành phức tạp  
+- Tuy nhiên, AI nên đóng vai trò là một người bạn đồng hành trong học tập, chứ không phải là công cụ để thay thế hoàn toàn khả năng tư duy độc lập  
 
 ### Trải Nghiệm Sự Kiện
 
-Sự kiện diễn ra rất thực tế, có nhiều ví dụ từ kỹ thuật đến tuyển dụng, AI và cộng đồng.
+Sự kiện mang lại không khí tràn đầy năng lượng và tính thực tiễn cao, với nhiều ví dụ minh họa trực quan từ kỹ thuật, tuyển dụng đến các hoạt động cộng đồng.
 
-#### Học từ diễn giả
-- Mỗi diễn giả đều gắn công nghệ với bài toán thật của doanh nghiệp  
-- Nội dung cho thấy platform, AI và bảo mật luôn gắn chặt với nhau  
+#### Lắng nghe từ các chuyên gia
+- Mỗi bài chia sẻ đều khéo léo kết nối các công nghệ hiện đại với những thách thức thực tế trong vận hành doanh nghiệp  
+- Qua đó làm nổi bật mối liên kết không thể tách rời giữa nền tảng hạ tầng, trí tuệ nhân tạo và vấn đề bảo mật  
 
-#### Tương tác và demo
-- Người tham dự đặt nhiều câu hỏi về kiến trúc, triển khai và cơ hội nghề nghiệp  
-- Phần demo giúp các khái niệm phức tạp trở nên dễ tiếp cận hơn  
+#### Hoạt động tương tác và demo
+- Khán giả rất tích cực đặt các câu hỏi xoay quanh thiết kế hệ thống, quy trình triển khai cũng như lộ trình thăng tiến  
+- Các phần demo trực tiếp giúp người xem dễ dàng hình dung và thấu hiểu những khái niệm kỹ thuật phức tạp  
 
-#### Không khí hòa nhập
-- Sự tham gia của cộng đồng người khiếm thính tạo ra một góc nhìn nhân văn mạnh mẽ  
-- Sự kiện khuyến khích học tập không giới hạn và phát triển nghề nghiệp bằng tinh thần hòa nhập  
+#### Không gian thân thiện, hòa nhập
+- Sự hiện diện của cộng đồng người khiếm thính đã lan tỏa một thông điệp nhân văn vô cùng sâu sắc  
+- Sự kiện đã thành công trong việc tạo ra một môi trường học hỏi cởi mở, khuyến khích sự phát triển bản thân và trân trọng sự đa dạng  
+
+---
+**Ảnh minh chứng sự kiện:**
+{{< img "images/Workshop/Event1.png" "Minh chứng tham gia Event 1" >}}

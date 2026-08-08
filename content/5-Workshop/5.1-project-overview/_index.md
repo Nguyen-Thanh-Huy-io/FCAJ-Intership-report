@@ -20,7 +20,7 @@ PubliCast is a cloud-native social publishing platform for managing content, tea
 NEED AN IMAGE + high-level product architecture showing frontend, backend API, database, cache, object storage, queue workers, and AWS deployment flow.
 {{% /notice %}}
 
-{{< img "images/5-Workshop/5.1-Workshop-overview/diagram1.png" "overview" >}}
+{{< img "images/Workshop/services/architecture.drawio.png" "overview" >}}
 
 #### Presentation flow
 + Product vision and target users.

@@ -12,80 +12,84 @@ pre: " <b> 4.1. </b> "
 
 ### Event Objectives
 
-- Introduce GoTyme X's tech ecosystem and career pathways
-- Share practical Cloud & AI insights across platform engineering, DevOps, agentic coding, GraphRAG, and AI security
-- Inspire and support underrepresented IT communities
+- Present GoTyme X's technology landscape and career opportunities
+- Deliver real-world insights into Cloud & AI, spanning platform engineering, DevOps, agentic workflows, GraphRAG, and AI safety
+- Motivate and uplift underrepresented groups within the IT sector
 
 ### Speakers
 
-- **GoTyme X Representative** – Introduced the digital banking business model, kiosk technology, and internship program
-- **Phúc (Jason) & Hải (GoTyme X)** – Shared the “Platform as a Product” philosophy
-- **Phong** – Presented DevOps practices, CI/CD, infrastructure automation, and monitoring
-- **Phát (Software Engineer at Katalon)** – Talked about shipping code in the agentic era and multi-agent automation
-- **Nghị** – Covered Amazon Nova, Matryoshka Embeddings, GraphRAG, AI Agents, and Bedrock Guardrails
-- **Minh Chiến & Team SJS** – Shared the experience of a deaf/hard-of-hearing IT community working with AI and data
+- **GoTyme X Representative** – Discussed the digital banking framework, automated kiosk systems, and available internships
+- **Phúc (Jason) & Hải (GoTyme X)** – Outlined the “Platform as a Product” methodology
+- **Phong** – Explored DevOps strategies, CI/CD pipelines, infrastructure as code, and system observability
+- **Phát (Software Engineer at Katalon)** – Shared perspectives on deploying code in an agentic workflow and automating with multiple agents
+- **Nghị** – Elaborated on Amazon Nova, Matryoshka Embeddings, GraphRAG, AI Agents, and the application of Bedrock Guardrails
+- **Minh Chiến & Team SJS** – Provided insights from the deaf/hard-of-hearing IT community on navigating AI and data
 
 ### Key Highlights
 
 #### GoTyme X scale and kiosk innovation
 
-- South Africa's first $1.5B tech unicorn startup with 70% of its tech workforce based in Vietnam  
-- Automated supermarket kiosks enable eKYC and debit card issuance in exactly 5 minutes  
+- Recognized as South Africa's first $1.5 billion tech unicorn, with a significant 70% of its engineering talent located in Vietnam  
+- Their innovative supermarket kiosks facilitate eKYC and physical debit card printing in just 5 minutes  
 
 #### Platform as a Product
 
-- The platform team shifts from manual ticket handling to self-service products  
-- Developers can provision resources like RDS and VPC faster while staying aligned with security standards  
+- Transitioning the platform engineering focus from manually resolving tickets to creating self-service developer products  
+- Empowering developers to independently provision infrastructure (like RDS and VPCs) swiftly while maintaining strict security compliance  
 
 #### Agentic coding and multi-agent workflows
 
-- Developers move from single-agent prompts to parallel multi-agent collaboration  
-- Tasks can be assigned through tools like Linear, allowing AI to branch, code, and submit Pull Requests  
+- Shifting the development paradigm from sequential single-agent prompting to concurrent multi-agent cooperation  
+- Utilizing platforms like Linear to assign tasks, enabling AI to autonomously create branches, write code, and open Pull Requests  
 
 #### Amazon Nova and GraphRAG
 
-- Nova supports multimodal workloads across text, image, and audio  
-- GraphRAG uses Neptune to extract relationships that traditional semantic search cannot handle well  
+- Amazon Nova facilitates multimodal processing, seamlessly handling text, image, and audio inputs  
+- GraphRAG leverages Amazon Neptune to map and query complex relationships that standard semantic search struggles to resolve  
 
 #### AI security guardrails
 
-- Amazon Bedrock Guardrails helps block prompt injection attacks and filter unsafe content  
-- Sensitive internal or customer data needs protection between the user and the model  
+- Amazon Bedrock Guardrails acts as a shield against prompt injections and screens for inappropriate content  
+- Emphasized the necessity of safeguarding confidential internal and user data during model interactions  
 
 ### Key Takeaways
 
 #### Product thinking for infrastructure
 
-- Platform engineers should think of internal tooling as a product for developers  
-- Self-service and reliability are more important than only processing tickets quickly  
+- Internal tools and infrastructure should be treated by platform engineers as fully-fledged products tailored for developers  
+- Prioritizing self-service capabilities and system stability yields better results than merely optimizing ticket resolution times  
 
 #### Developer role evolution
 
-- Developers increasingly act as managers of AI agents rather than only manual coders  
-- Output quality, communication, and expectation management matter more in the agentic era  
+- The developer's role is transitioning towards orchestrating and overseeing AI agents rather than exclusively writing code manually  
+- In this new era, the focus shifts heavily toward ensuring output quality, effective communication, and setting clear expectations  
 
 #### Choosing the right AI pattern
 
-- Use simpler approaches for basic tasks, but move to graph-based solutions when relationships become complex  
-- AI tools are most effective when the problem is clearly framed  
+- Opt for straightforward AI methods for simple problems, but transition to graph-augmented solutions when data relationships are intricate  
+- AI solutions deliver the highest value when the underlying problem is accurately defined and constrained  
 
 #### Learning with AI
 
-- AI can accelerate reading, summarizing, and understanding technical material  
-- It works best as a co-learning assistant, not a shortcut for thinking  
+- AI serves as a powerful catalyst for rapidly digesting, summarizing, and comprehending complex technical documentation  
+- It should be treated as an interactive learning partner rather than a crutch that bypasses critical thinking  
 
 ### Event Experience
 
-The event was practical and energetic, with many real examples from engineering, hiring, AI, and community support.
+The session was highly pragmatic and engaging, filled with concrete examples covering engineering practices, recruitment, AI integration, and community empowerment.
 
 #### Learning from speakers
-- Each speaker connected technology with real business needs and operational constraints  
-- The talks showed how platform, AI, and security concerns are tied together  
+- Every presenter successfully bridged the gap between advanced technology and tangible business or operational challenges  
+- The discussions highlighted the deep interconnectivity between platform engineering, AI innovation, and security  
 
 #### Interaction and demos
-- The audience asked direct questions about architecture, deployment, and career paths  
-- Demo-driven explanations made complex topics easier to understand  
+- Participants actively inquired about system architecture, deployment strategies, and career trajectories  
+- Live, demo-centric presentations made intricate technical concepts much more accessible  
 
 #### Inclusive atmosphere
-- The participation of the deaf/hard-of-hearing community added a strong human perspective  
-- The event encouraged learning without limits and professional growth through inclusion  
+- The involvement of the deaf/hard-of-hearing community brought a profound and inspiring human element to the event  
+- The environment strongly promoted barrier-free learning and career advancement through true inclusivity  
+
+---
+**Event Proof:**
+{{< img "images/Workshop/Event1.png" "Event 1 Proof" >}}

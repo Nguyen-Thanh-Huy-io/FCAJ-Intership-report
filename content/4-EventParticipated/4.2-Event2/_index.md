@@ -12,78 +12,82 @@ pre: " <b> 4.2. </b> "
 
 ### Event Objectives
 
-- Connect and inspire students, professionals, and tech experts
-- Share practical knowledge from cloud platforms, system architecture, and AI
-- Encourage networking, communication, and real-world problem solving
+- Build connections and spark motivation among students, working professionals, and technology veterans
+- Distribute actionable knowledge regarding cloud infrastructure, system design, and artificial intelligence
+- Foster an environment of networking, open dialogue, and practical problem-solving
 
 ### Speakers
 
-- **Gia Hưng (AWS Vietnam)** – Talked about the IT labor market and the importance of real products
-- **Tịnh Trương** – Explained how to provide good context to AI and avoid being an “Internet puller”
-- **Hải Anh** – Presented Amazon Q and its integration capabilities via MCP
-- **Thịnh Nguyễn** – Discussed Amazon CloudFront Flat Rate Pricing and security solutions
-- **UTM Team** – Shared a 36-hour hackathon experience building an AI UI generation and editing application
-- **Đức Đào** – Explained the non-deterministic nature of LLMs even at Temperature = 0
-- **Vy Lâm** – Presented multi-agent architecture for startup credit scoring in enterprise environments
+- **Gia Hưng (AWS Vietnam)** – Addressed current IT labor market trends and why building tangible products is crucial
+- **Tịnh Trương** – Outlined methods for supplying effective AI context and avoiding the pitfalls of being an “Internet puller”
+- **Hải Anh** – Showcased Amazon Q and its integration potential using MCP
+- **Thịnh Nguyễn** – Analyzed Amazon CloudFront's Flat Rate Pricing model alongside robust security measures
+- **UTM Team** – Recounted their 36-hour hackathon journey developing an AI-driven UI generation and modification tool
+- **Đức Đào** – Clarified the inherent unpredictability (non-determinism) of LLMs, even when Temperature is set to 0
+- **Vy Lâm** – Discussed the deployment of multi-agent architectures for startup credit evaluation within enterprise systems
 
 ### Key Highlights
 
 #### Surging demand for Platform and DevOps skills
 
-- AI makes software creation cheaper and faster, which increases the number of applications  
-- This creates strong demand for people who can operate and maintain systems  
-- Students need real business context and complete products, not just basic demos  
+- As AI reduces the cost and time to build software, the sheer volume of applications is increasing  
+- This surge creates a massive need for engineers skilled in system operations and maintenance  
+- Students are encouraged to focus on full-fledged products with real business contexts over simplistic demos  
 
 #### The “Internet Puller” mistake
 
-- AI should not be fed random plugins and internet data without structure  
-- Clear roles and precise context help the model stay focused and useful  
+- Feeding AI a chaotic mix of internet data and random plugins leads to poor results  
+- Defining strict roles and providing precise, structured context ensures the model remains highly effective  
 
 #### CloudFront Flat Rate and security
 
-- Flat Rate Pricing helps enterprises avoid sudden bill spikes from traffic surges or DDoS attacks  
-- VPC Origin and mTLS strengthen the security model  
+- A Flat Rate Pricing strategy shields enterprises from unexpected billing spikes caused by traffic surges or DDoS attempts  
+- Security is further hardened by combining VPC Origin with mTLS authentication  
 
 #### LLM non-determinism
 
-- Even with Temperature = 0, AI output can vary  
-- Floating-point rounding and inference optimization can still affect results  
+- AI responses can still fluctuate even when the Temperature parameter is strictly 0  
+- Underlying factors like floating-point math rounding and backend inference optimizations contribute to this variance  
 
 #### Multi-agent systems in enterprise use cases
 
-- Multi-agent architecture helps overcome context window limits  
-- It also allows strict role separation and better security for enterprise data  
+- Implementing multi-agent architectures is a practical way to bypass context window limitations  
+- This approach enforces strict role boundaries, enhancing data security for enterprise applications  
 
 ### Key Takeaways
 
 #### Tools must serve people
 
-- AI architectures only matter when they solve a real user or business problem  
-- Always answer “Who uses this and why?” before building  
+- The true value of any AI architecture lies in its ability to solve genuine user or business challenges  
+- The foundational question “Who is this for, and why do they need it?” must be answered before development begins  
 
 #### Testing is continuous
 
-- AI is probabilistic, so systems need error handling and continuous testing  
-- Production readiness depends on validation across many scenarios  
+- Because AI operates on probability, systems must be built with robust error handling and continuous validation mechanisms  
+- Achieving production readiness requires rigorous testing across a multitude of edge cases  
 
 #### Be careful with AI-generated code
 
-- Do not blindly copy AI-generated code into enterprise systems  
-- It can break standards and cause failures if not reviewed carefully  
+- Blindly pasting AI-generated code into an enterprise codebase is a significant risk  
+- Without thorough review, it can violate coding standards and introduce severe system failures  
 
 #### Move quickly
 
-- Market expectations are rising month by month  
-- Delaying action increases the cost of catching up later  
+- The expectations of the tech market are escalating rapidly on a month-to-month basis  
+- Procrastination only amplifies the effort and cost required to catch up to industry standards  
 
 ### Event Experience
 
-The event balanced architecture theory, live demos, and real stories from production environments.
+The gathering provided a healthy mix of architectural theory, live demonstrations, and authentic stories from production environments.
 
 #### Practical and dynamic
-- Speakers shared production failure stories that were honest and memorable  
-- The session mixed theory with practical examples that were easy to relate to  
+- Presenters shared candid, memorable stories about their own production failures  
+- The combination of abstract theory and relatable, practical examples made the content highly digestible  
 
 #### Encouraging self-expression
-- The organizers used quizzes and interactive questions to keep the audience engaged  
-- The event emphasized the value of speaking up and building visibility for your career  
+- The organizers maintained high audience engagement through interactive quizzes and Q&A sessions  
+- A strong emphasis was placed on the importance of speaking out and increasing professional visibility to advance one's career  
+
+---
+**Event Proof:**
+{{< img "images/Workshop/Event2.png" "Event 2 Proof" >}}

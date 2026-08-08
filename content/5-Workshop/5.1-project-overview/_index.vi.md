@@ -20,7 +20,7 @@ PubliCast là một nền tảng quản lý nội dung và mạng xã hội ch�
 NEED AN IMAGE + sơ đồ tổng quan hệ thống thể hiện frontend, backend API, database, cache, object storage, worker queue và luồng triển khai AWS.
 {{% /notice %}}
 
-{{< img "images/5-Workshop/5.1-Workshop-overview/diagram1.png" "overview" >}}
+{{< img "images/Workshop/services/architecture.drawio.png" "overview" >}}
 
 #### Mạch trình bày
 + Tầm nhìn sản phẩm và đối tượng sử dụng.

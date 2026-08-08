@@ -12,81 +12,85 @@ pre: " <b> 4.3. </b> "
 
 ### Mục Tiêu Của Sự Kiện
 
-- Khuyến khích sinh viên tự tin thuyết trình và luyện tập tiếng Anh
-- Tạo không gian thực tế để sinh viên và người đi làm chia sẻ kiến thức công nghệ
-- Giúp người tham dự bước ra khỏi vùng an toàn và mở rộng kết nối nghề nghiệp
+- Thúc đẩy tinh thần dám đứng lên thuyết trình và trau dồi khả năng sử dụng tiếng Anh của sinh viên
+- Hình thành một diễn đàn thực tế để sinh viên và những người có kinh nghiệm cùng giao lưu về công nghệ
+- Hỗ trợ người tham gia phá bỏ rào cản bản thân để xây dựng những mối quan hệ công việc giá trị
 
 ### Danh Sách Diễn Giả
 
-- **Huỳnh Thái Linh** - Chia sẻ về cách sử dụng LocalStack kết hợp với AWS
-- **Nhóm The Boilers (Đại học FPT)** - Minh Hương, Quốc An, Trí Quân trình bày bằng tiếng Anh về trải nghiệm thi Hackathon
-- **Nguyễn Thị Quỳnh Như (Đại học HUTECH)** - Trình bày về tâm lý học, sự hoài nghi bản thân và cách xây dựng tự tin
-- **Anh Nghĩa (Swinburne)** - Chia sẻ dự án khởi nghiệp kết hợp giữa AI và Tử vi học
-- **Trần Minh Quân (Đại học FPT)** - Trình bày về những vấn đề tiềm ẩn trong quá trình phát triển phần mềm
-- **Khắc Uyên (Đại học Việt Đức - VGU)** - Chia sẻ cách vượt qua sự trì hoãn và các nỗi sợ vô hình
+- **Huỳnh Thái Linh** - Hướng dẫn cách tích hợp và sử dụng LocalStack trong hệ sinh thái AWS
+- **Nhóm The Boilers (Đại học FPT)** - Minh Hương, Quốc An, Trí Quân kể lại hành trình thi đấu Hackathon hoàn toàn bằng tiếng Anh
+- **Nguyễn Thị Quỳnh Như (Đại học HUTECH)** - Đào sâu vào khía cạnh tâm lý, sự thiếu tự tin và các phương pháp khẳng định giá trị bản thân
+- **Anh Nghĩa (Swinburne)** - Ra mắt ý tưởng startup độc đáo pha trộn giữa Trí tuệ nhân tạo (AI) và bộ môn Tử vi
+- **Trần Minh Quân (Đại học FPT)** - Bóc tách những rủi ro ngầm (tảng băng chìm) trong vòng đời phát triển phần mềm
+- **Khắc Uyên (Đại học Việt Đức - VGU)** - Bật mí bí quyết đánh bại thói quen trì hoãn và vượt qua những nỗi sợ vô hình
 
 ### Nội Dung Nổi Bật
 
-#### LocalStack giúp test nhanh hơn
+#### Tăng tốc độ kiểm thử với LocalStack
 
-- LocalStack giúp chạy thử nghiệm nhanh hơn khoảng 138 lần so với Cloud thật  
-- Công cụ này dùng rất ít RAM  
-- Hạn chế là chỉ hỗ trợ một số lượng dịch vụ AWS nhất định  
+- LocalStack cho phép chạy test với tốc độ chóng mặt, nhanh hơn 138 lần so với khi deploy lên Cloud thật  
+- Công cụ này tối ưu tài nguyên rất tốt, tiêu tốn cực kỳ ít dung lượng RAM  
+- Điểm trừ duy nhất là nó chưa hỗ trợ toàn bộ hệ sinh thái dịch vụ đa dạng của AWS  
 
-#### Dự án Hackathon
+#### Các dự án từ Hackathon
 
-- Nhóm The Boilers hoàn thành dự án AI phát hiện giọng nói giả để chống gian lận tổng đài  
-- Nhóm cũng xây dựng nền tảng tạo cuộc phỏng vấn giả lập dựa trên CV  
+- Nhóm The Boilers đã phát triển thành công hệ thống AI nhận diện giọng nói giả mạo nhằm ngăn chặn lừa đảo qua tổng đài  
+- Bên cạnh đó, nhóm cũng ra mắt một hệ thống tự động sinh ra các kịch bản phỏng vấn giả định dựa trên CV của ứng viên  
 
-#### Sự hoài nghi bản thân và hội chứng kẻ mạo danh
+#### Hội chứng kẻ mạo danh và sự tự ti
 
-- Sự hoài nghi bản thân có thể khiến sinh viên bỏ lỡ cơ hội  
-- Nhiều người che giấu kỹ năng thật vì cảm thấy mình chưa đủ giỏi  
+- Cảm giác tự ti là rào cản lớn nhất khiến nhiều bạn trẻ đánh mất đi những cơ hội vàng  
+- Rất nhiều người chọn cách giấu kín năng lực thật của mình chỉ vì lúc nào cũng mang tâm lý "mình chưa sẵn sàng"  
 
-#### Dự án AI và Tử vi
+#### Kết hợp AI và Tử vi
 
-- Ý tưởng khởi nghiệp kết hợp Claude và hệ thống RAG  
-- Kết quả được đối chiếu chéo với bộ môn Bát tự và đạt tỷ lệ đồng thuận rất cao  
+- Dự án khởi nghiệp này là sự giao thoa giữa sức mạnh của mô hình Claude và kiến trúc truy xuất RAG  
+- Đáng ngạc nhiên là khi đối chiếu kết quả của AI với nguyên lý Bát tự, tỷ lệ trùng khớp đạt mức rất cao  
 
-#### Những vấn đề “tảng băng chìm” trong phần mềm
+#### Tảng băng chìm trong dự án phần mềm
 
-- Nhiều thất bại của hệ thống không đến từ kỹ thuật mà từ yêu cầu không rõ ràng và giao tiếp kém  
-- Quy trình thủ công cũng là nguyên nhân lớn gây lỗi  
+- Rất nhiều dự án đổ bể không phải do code dở, mà xuất phát từ việc thu thập yêu cầu hời hợt và khả năng giao tiếp rời rạc  
+- Việc lạm dụng các thao tác thủ công (manual) cũng là ngọn nguồn sinh ra vô số lỗi hệ thống  
 
-#### Trì hoãn và nỗi sợ
+#### Giải mã sự trì hoãn
 
-- Trì hoãn thường là cơ chế phòng vệ của não bộ hơn là sự lười biếng  
-- Ba nỗi sợ phổ biến là sợ mình chưa đủ giỏi, sợ bị đánh giá và sợ thất bại  
+- Trì hoãn không đơn thuần là lười biếng, mà thực chất là một phản ứng phòng vệ của não bộ trước áp lực  
+- Ba nguyên nhân cốt lõi dẫn đến nỗi sợ là: sợ kém cỏi, sợ bị người khác phán xét và sợ thất bại  
 
 ### Bài Học Rút Ra
 
-#### Hành động tạo ra sự tự tin
+#### Hành động đẻ ra tự tin
 
-- Sự tự tin đến từ việc bắt đầu hành động chứ không phải ngược lại  
-- Tư duy "Go Build" khuyến khích làm nhanh, sai sớm và sửa sớm  
+- Đừng đợi tự tin rồi mới làm, chính việc bắt tay vào làm mới giúp bạn xây dựng sự tự tin  
+- Tinh thần "Go Build" của Amazon dạy chúng ta phải hành động quyết liệt, chấp nhận sai sót để sửa chữa thật nhanh  
 
-#### Áp dụng quy tắc 5 giây
+#### Sức mạnh của quy tắc 5 giây
 
-- Khi do dự, hãy bắt đầu ngay lập tức  
-- Nếu cần, hãy tự cam kết làm một việc khó trong đúng 5 phút để tạo động lực  
+- Bất cứ khi nào não bộ chần chừ, hãy đếm ngược 5 giây và làm ngay lập tức  
+- Đôi khi, chỉ cần ép bản thân tập trung làm một việc khó nhằn trong vòng 5 phút là đủ để duy trì được đà làm việc  
 
-#### Tham gia Hackathon thường xuyên
+#### Hãy đi thi Hackathon
 
-- Hackathon giúp có tài nguyên miễn phí, mở rộng mối quan hệ và tạo sản phẩm thật  
-- Dự án thực tế luôn giúp CV ấn tượng hơn lý thuyết đơn thuần  
+- Đây là mỏ vàng để bạn sử dụng tài nguyên miễn phí, mở rộng vòng kết nối và có trong tay những sản phẩm hoàn chỉnh  
+- Những dự án thực chiến này sẽ biến CV của bạn trở nên nặng ký hơn rất nhiều so với những mớ lý thuyết suông  
 
 ### Trải Nghiệm Sự Kiện
 
-Sự kiện rất tương tác và cân bằng tốt giữa nội dung kỹ thuật và kỹ năng mềm.
+Chương trình diễn ra vô cùng sôi nổi, đan xen hài hòa giữa các chủ đề khô khan về kỹ thuật và những bài học sâu sắc về kỹ năng mềm.
 
-#### Tương tác cao
-- Diễn giả liên tục đặt câu hỏi thực tế để kéo khán giả vào cuộc trò chuyện  
-- Không khí sự kiện luôn cởi mở và thân thiện  
+#### Bầu không khí tương tác
+- Các diễn giả liên tục ném ra những câu hỏi hóc búa mang tính thực tế để kích thích khán giả động não và tranh luận  
+- Xuyên suốt sự kiện, mọi người luôn cảm nhận được sự cởi mở và nhiệt thành  
 
-#### Chủ đề đa dạng
-- Chương trình kết hợp Cloud, kiến trúc phần mềm, AI, tâm lý và quản lý cảm xúc  
-- Điều này giúp người tham dự học được cả kỹ thuật lẫn phát triển cá nhân  
+#### Chủ đề đa chiều
+- Nội dung trải dài từ Cloud, kiến trúc hệ thống, Trí tuệ nhân tạo, cho đến tâm lý học và quản trị cảm xúc cá nhân  
+- Sự kết hợp này mang lại giá trị kép: vừa nâng cao tay nghề chuyên môn, vừa hoàn thiện con người  
 
-#### Môi trường khích lệ
-- Dù là diễn giả lần đầu hay còn hồi hộp, mọi người vẫn được tôn trọng và cổ vũ  
-- Sự kiện khép lại bằng bầu không khí ấm áp và tích cực  
+#### Tinh thần khích lệ
+- Dù diễn giả có lúng túng vì lần đầu lên sân khấu, toàn bộ khán đài vẫn dành cho họ sự tôn trọng và những tràng pháo tay cổ vũ  
+- Sự kiện đã khép lại một cách trọn vẹn, để lại nhiều dư âm tích cực và sự ấm áp trong lòng người tham dự  
+
+---
+**Ảnh minh chứng sự kiện:**
+{{< img "images/Workshop/Event3.png" "Minh chứng tham gia Event 3" >}}
