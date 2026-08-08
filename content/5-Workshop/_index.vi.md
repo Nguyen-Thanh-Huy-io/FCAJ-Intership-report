@@ -1,5 +1,5 @@
 ---
-title: "Bản trình bày PubliCast"
+title: "Workshop: Thiết kế và Triển khai hệ thống PubliCast trên AWS"
 date: 2024-01-01
 weight: 5
 chapter: false
@@ -7,7 +7,7 @@ pre: " <b> 5. </b> "
 ---
 
 
-
+# Workshop: Thiết kế và Triển khai Nền tảng Đăng tải Nội dung Mạng xã hội PubliCast trên AWS
 
 #### Tổng quan về bản trình bày
 Bản trình bày này giới thiệu PubliCast từ ý tưởng sản phẩm đến triển khai trên AWS.

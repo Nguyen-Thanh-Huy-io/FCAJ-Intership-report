@@ -1,5 +1,5 @@
 ---
-title: "Workshop"
+title: "PubliCast Workshop: Architecting a Cloud-Native Social Publishing Platform"
 date: 2024-01-01
 weight: 5
 chapter: false
@@ -7,7 +7,7 @@ pre: " <b> 5. </b> "
 ---
 
 
-# PubliCast
+# PubliCast Workshop: Architecting and Deploying a Cloud-Native Social Publishing Platform on AWS
 
 #### Presentation overview
 This presentation walks through the PubliCast from product vision to AWS deployment.
