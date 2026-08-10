@@ -16,9 +16,7 @@ PubliCast là một nền tảng quản lý nội dung và mạng xã hội ch�
 + Có lớp quản trị cho pricing, revenue, audit log và giới hạn tính năng.
 + Được triển khai bằng AWS với backend, frontend, lưu trữ tệp, hàng đợi xử lý và các dịch vụ hạ tầng liên quan.
 
-{{% notice warning %}}
-NEED AN IMAGE + sơ đồ tổng quan hệ thống thể hiện frontend, backend API, database, cache, object storage, worker queue và luồng triển khai AWS.
-{{% /notice %}}
+Dưới đây là sơ đồ kiến trúc tổng quan của hệ thống PubliCast, mô tả chi tiết cách các dịch vụ tương tác với nhau trên hạ tầng AWS. Hệ thống được thiết kế mở rộng bao gồm Frontend, Backend API, Database, Cache, Object Storage, và Worker Queue để xử lý các tác vụ nền một cách tối ưu.
 
 {{< img "images/Workshop/services/architecture.drawio.png" "overview" >}}
 

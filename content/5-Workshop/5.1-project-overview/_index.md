@@ -16,9 +16,7 @@ PubliCast is a cloud-native social publishing platform for managing content, tea
 + Provides admin tools for pricing, revenue, audit logs, and platform limits.
 + Uses AWS services for scalable frontend hosting, backend processing, storage, and deployment.
 
-{{% notice warning %}}
-NEED AN IMAGE + high-level product architecture showing frontend, backend API, database, cache, object storage, queue workers, and AWS deployment flow.
-{{% /notice %}}
+Below is the high-level architecture diagram for the PubliCast project, detailing how various services interact on the AWS infrastructure. The system features a scalable architecture comprising the Frontend, Backend API, Database, Cache, Object Storage, and Queue Workers to optimally process background tasks.
 
 {{< img "images/Workshop/services/architecture.drawio.png" "overview" >}}
 
