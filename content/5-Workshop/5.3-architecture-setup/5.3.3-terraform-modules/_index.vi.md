@@ -1,5 +1,5 @@
 ---
-title: "Tham chiếu Module Terraform"
+title: "5.3.3. Tham chiếu Module Terraform"
 weight: 3
 ---
 
